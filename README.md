@@ -19,6 +19,7 @@ A simple React-based application that lets you search for movies using the OMDB 
 ## 📦 How to Run
 
 1. Clone the repo:
-   bash :-
+   bash:-
+   
    git clone https://github.com/RohithPariki/Movie-Search-app.git
    cd Movie-Search-app
